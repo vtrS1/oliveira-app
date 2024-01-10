@@ -1,0 +1,3 @@
+class SnackbarAlerts {
+  loading() {}
+}
